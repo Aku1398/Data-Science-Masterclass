@@ -1,1 +1,1 @@
-# Data-Scientist-Masterclass
+# Data-Science-Masterclass
